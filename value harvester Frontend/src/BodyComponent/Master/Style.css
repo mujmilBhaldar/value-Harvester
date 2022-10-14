@@ -1,0 +1,194 @@
+.mainContainer {
+    margin: 30px;
+    /* -webkit-box-shadow: 11px 13px 14px 5px rgb(10 250 10);
+    -moz-box-shadow: 11px 13px 14px 5px rgb(10 250 10); */
+    padding: "10px";
+  }
+  
+  
+  .MachinePaperCard {
+    padding: 10px;
+  }
+  
+  .MuiButton-outlined.close {
+    color: rgb(185, 11, 11);
+    border: 1px solid rgb(185, 11, 11);
+    font-weight: 600;
+  }
+  /* .MuiButton-outlined.cancel {
+    color: rgb(245, 35, 35);
+    border: 1px solid rgb(245, 35, 35);
+    float: right;
+    font-weight: 600;
+    display: inline-block;
+    margin: 10px;
+    width: 100px !important;
+    padding: 10px !important;
+  } */
+  
+  /* .MuiButton-outlined.save {
+    color: rgb(36, 170, 204);
+    border: 1px solid rgb(36, 170, 204);
+    font-weight: 600;
+    float: right;
+    display: inline-block;
+    margin: 10px;
+    width: 100px !important;
+  } */
+  
+  .modalPopupMiddle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    background-color: #fff;
+    box-shadow: 24px;
+    border-radius: 10px;
+    color: #1976d2;
+  }
+  
+  .modalPopupSmall {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    background-color: #fff;
+    box-shadow: 24px;
+    border-radius: 10px;
+  }
+  .modalForm {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    min-height: auto;
+    max-height: 450px;
+  }
+  .MuiInputLabel-root {
+    line-height: 0.9em !important;
+  }
+  .MuiOutlinedInput-input {
+    height: 0.5em !important;
+  }
+  .inputField.valid {
+    width: 100% !important;
+  }
+  .closeBtnCross {
+    color: rgb(185, 11, 11);
+    font-weight: 600;
+    float: right;
+    cursor: pointer;
+  }
+  
+  .addBtn {
+    float: right;
+  }
+  .addIcon {
+    color: #0f0f0f;
+    cursor: pointer;
+  }
+  .inputField.invalid {
+    /* border-color: red !important; */
+    border: 1px solid red !important;
+    width: 100% !important;
+  }
+  
+  .save {
+    float: right;
+    width: 100px !important;
+    margin-top: 10px !important;
+  }
+  .cancel {
+    float: right;
+    width: 100px !important;
+    margin-left: 15px !important;
+    margin-top: 10px !important;
+  }
+  
+  .modalPopupMiddle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    background-color: #fff;
+    box-shadow: 24px;
+    border-radius: 10px;
+  }
+  
+  .requiredMsg {
+    color: rgb(214, 9, 9);
+    font-style: italic;
+    font-weight: 350;
+  }
+  .MuiPaper-root {
+    top: 66px;
+    bottom: 156px;
+  }
+  #demo-simple-select-label {
+    min-height: 0.5em;
+  }
+  .formCard {
+    padding: 60px;
+    -webkit-box-shadow: -1px 0px 4px 2px rgba(10, 250, 10, 1) !important;
+    -moz-box-shadow: -1px 0px 4px 2px rgba(10, 250, 10, 1) !important;
+    box-shadow: -1px 0px 4px 2px rgba(10, 250, 10, 1) !important;
+  }
+  .headingTitle {
+    color: #1976d2;
+    text-transform: uppercase;
+    font-size: larger;
+  }
+  
+  .css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    max-height: 30% !important;
+    min-height: 20% !important;
+  }
+  
+  .react-confirm-alert-body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 402px;
+    padding: 30px;
+    margin-top: 200px;
+    text-align: center;
+    background: rgb(238, 115, 115) !important;
+    border-radius: 10px;
+    box-shadow: 0 20px 75px rgb(0 0 0 / 13%);
+    color: rgb(0, 0, 0) !important;
+  }
+  .react-confirm-alert-button-group {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 100px;
+  }
+  
+  .react-confirm-alert-body > h1 {
+    margin-top: 20px;
+  }
+  
+  .tableTopbar {
+    background-color: rgb(255, 0, 0) !important;
+    color: #fff !important;
+    width: 100% !important;
+  }
+  .css-16lloyr-MuiBottomNavigation-root {
+    -webkit-box-shadow: 0px -3px 4px -1px rgba(168, 168, 168, 1);
+    -moz-box-shadow: 0px -3px 4px -1px rgba(168, 168, 168, 1);
+    box-shadow: 0px -3px 4px -1px rgba(168, 168, 168, 1);
+  }
+  .css-i4bv87-MuiSvgIcon-root {
+    color: black;
+  }
+  #readonly{ background-color:#f0eceb;
+  
+  }
+  
+  .css-qiwgdb.MuiSelect-select {
+    min-height: 0 !important;
+  }
+  
+  .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.MuiSelect-select {
+    min-height: 0 !important;
+  }

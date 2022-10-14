@@ -1,0 +1,19 @@
+
+.tradeValue{
+    color: black;
+    font-weight: bold !important;
+  text-align: center !important ;
+    padding-left: 90px;
+}
+.currency {
+color: #ff0000 ;
+font-size: 1rem !important;
+
+}
+.notificationTitle{
+  background-color: #00CED1;
+  height: 30px;
+  text-align: center;
+  font-weight: bold;
+  padding: 8px;
+}

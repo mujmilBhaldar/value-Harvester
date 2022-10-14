@@ -1,0 +1,20 @@
+
+.search {
+    float: right;
+    width: 100px !important;
+    margin-top: 10px !important;
+    text-transform:capitalize !important;
+  }
+  .clear {
+    float: right;
+    width: 100px !important;
+    margin-left: 15px !important;
+    margin-right: 20px !important;
+    margin-top: 10px !important;
+    text-transform:capitalize !important;
+  }
+
+  .table-header{
+    background-color: #30694;
+
+  }
